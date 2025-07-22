@@ -2,8 +2,6 @@
 
 A simple, sleek currency converter built using Flutter. This app lets you convert between multiple currencies in real-time, with a clean UI and a fun twist — currencies racing against each other.
 
-![App Logo](assets/icon/icon.png)
-
 ---
 
 ## 🚀 Features
@@ -22,3 +20,4 @@ A simple, sleek currency converter built using Flutter. This app lets you conver
 - [Dart](https://dart.dev/) — Programming language
 - [ExchangeRate API](https://exchangerate.host/)
 - [Firebase Analytics](https://firebase.google.com/products/analytics)
+
