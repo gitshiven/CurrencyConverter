@@ -2,7 +2,7 @@
 
 A simple, sleek currency converter built using Flutter. This app lets you convert between multiple currencies in real-time, with a clean UI and a fun twist — currencies racing against each other.
 
-![App Logo](assets/icon/app_icon.png)
+![App Logo](assets/icon/icon.png)
 
 ---
 
